@@ -1,0 +1,12 @@
+Customer Name: ash
+Room Number: 103
+Email: ash@gmail.com
+Feedback: I loved it
+
+Customer Name: sam
+Room Number: 103
+Email: sam@gmail.com
+Feedback: great hotel
+
+
+
